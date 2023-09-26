@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\sukeyna çelik\öğreci ortalama hesaplama\öğreci ortalama hesaplama\obj\Debug\öğreci ortalama hesaplama.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\sukeyna çelik\öğreci ortalama hesaplama\öğreci ortalama hesaplama\obj\Debug\öğreci ortalama hesaplama.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\sukeyna çelik\öğreci ortalama hesaplama\öğreci ortalama hesaplama\obj\Debug\öğreci_ortalama_hesaplama.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\sukeyna çelik\öğreci ortalama hesaplama\öğreci ortalama hesaplama\obj\Debug\öğreci_ortalama_hesaplama.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\sukeyna çelik\öğreci ortalama hesaplama\öğreci ortalama hesaplama\obj\Debug\öğreci ortalama hesaplama.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\sukeyna çelik\öğreci ortalama hesaplama\öğreci ortalama hesaplama\obj\Debug\öğreci ortalama hesaplama.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\sukeyna çelik\öğreci ortalama hesaplama\öğreci ortalama hesaplama\bin\Debug\öğreci ortalama hesaplama.exe.config
+C:\Users\User\Desktop\KORUMASIZ\sukeyna çelik\öğreci ortalama hesaplama\öğreci ortalama hesaplama\bin\Debug\öğreci ortalama hesaplama.exe
+C:\Users\User\Desktop\KORUMASIZ\sukeyna çelik\öğreci ortalama hesaplama\öğreci ortalama hesaplama\bin\Debug\öğreci ortalama hesaplama.pdb
+C:\Users\User\Desktop\KORUMASIZ\sukeyna çelik\öğreci ortalama hesaplama\öğreci ortalama hesaplama\obj\Debug\öğreci ortalama hesaplama.exe
+C:\Users\User\Desktop\KORUMASIZ\sukeyna çelik\öğreci ortalama hesaplama\öğreci ortalama hesaplama\obj\Debug\öğreci ortalama hesaplama.pdb
